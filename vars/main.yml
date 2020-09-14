@@ -1,0 +1,5 @@
+---
+# vars file for lamprole
+apache_pack_deb: apache2
+package_name: httpd
+
